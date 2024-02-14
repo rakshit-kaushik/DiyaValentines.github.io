@@ -215,12 +215,16 @@ body {
   font-size: 3em;
   margin: 0;
   /* text-transform: uppercase; */
+  word-wrap: break-word; /* Add this line */
+  padding: 10px; /* Adjust padding as needed */
 }
 
 .wish h5 {
   font-weight: lighter;
   font-size: 2rem;
   margin: 10px 0 0;
+  word-wrap: break-word; /* Add this line */
+  padding: 10px; /* Adjust padding as needed */
 }
 
 .nine p {
